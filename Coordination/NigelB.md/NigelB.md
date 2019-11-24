@@ -1,5 +1,10 @@
 # Next steps
-## todo: literature search for state of the art in reliability and redundancy for unmanned aircraft  
+## todo: literature search for state of the art in reliability and redundancy for unmanned aircraft
+
+### Useful information
+
+[PFreeman] says <mark>"certifiable techniques to address UAS LOC incidents must, whenever feasible, rely on analytical over hardware redundancy to maintain the
+operational advantages of UAS"</mark>
 
 ### work in progress, quotes from reference documents [here](https://hackmd.io/IjcOlnhtSNO6bEC0fUDX-w#Reliability-and-redundancy-for-unmanned-aircraft) 
 - Existing low-cost unmanned aerospace systems are unreliable {citation?}
@@ -22,4 +27,6 @@
     - A model-based detection strategy is designed and uses robust linear filtering methods to reject exogenous disturbances, e.g. wind, while providing robustness to model variation. 
     - A data-driven algorithm is developed to operate exclusively on raw flight test data without physical model knowledge. 
 - The fault detection and identification performance of these complementary but different methods is compared. 
-- 
+
+
+[PFreeman]: https://conservancy.umn.edu/bitstream/handle/11299/170136/Freeman_umn_0130E_15553.pdf "Reliability Assessment for Low-cost Unmanned Aerial Vehicles, Paul Michael Freeman, FACULTY OF THE GRADUATE SCHOOL OF THE Uo MINNESOTA, .pdf"
