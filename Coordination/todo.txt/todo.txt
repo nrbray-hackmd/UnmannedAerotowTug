@@ -1,5 +1,5 @@
 (A) @JonH work through [CAP722](#Unmanned-Aircraft-System-Operations-in-UK-Airspace) to get a feel for where the boundaries are likely to be
 (B) @JonH put out a circular on this 
 (C) @NigelB list possible cf's: MichelC JonH MalcolmB TimS NigelB RichardH JohnC JulianT JustinN BillB GrantC IanP AlanD 
-(D) @NigelB literature search for state of the art in [reliability and redundancy for unmanned aircraft](#Reliability-and-redundancy-for-unmanned-aircraft)
+(D) @NigelB literature search for state of the art in reliability and redundancy for unmanned aircraft +https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/Coordination/NigelB.md/NigelB.md
 https://duckduckgo.com/?q=todo.txt 

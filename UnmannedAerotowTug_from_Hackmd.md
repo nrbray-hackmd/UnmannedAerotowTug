@@ -4,7 +4,7 @@
 
 [JonH](https://www.aerosociety.com/events-calendar/aero-mechanical-stabilisation-of-flying-wing-aircraft-reducing-weight-and-drag/) and [MichelC](https://www.nirvana.cz/michel-carnet-en) spoke about the topic.
 
-Note there is a place for a [List of items to do next](./Coordination/todo.txt/todo.txt), a provisional [Licence](https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/LICENSE.md/LICENSE.md) file and a [Public git repository](https://github.com/nrbray-hackmd/UnmannedAerotowTug) for sharing data.
+Note there is a place for a [List of items to do next](https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/Coordination/todo.txt/todo.txt), a provisional [Licence](https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/LICENSE.md/LICENSE.md) file and a [Public git repository](https://github.com/nrbray-hackmd/UnmannedAerotowTug) for sharing data.
 
 ---
 
@@ -63,4 +63,4 @@ Note there is a place for a [List of items to do next](./Coordination/todo.txt/t
 - [\[This\] Shared introductory text file](https://hackmd.io/Skhl4bVnH)
 - [Public git repository](https://github.com/nrbray-hackmd/UnmannedAerotowTug)
 - [Licence](https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/LICENSE.md/LICENSE.md)
-- [List of items to do next](./Coordination/todo.txt/todo.txt)  
+- [List of items to do next](https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/Coordination/todo.txt/todo.txt)  

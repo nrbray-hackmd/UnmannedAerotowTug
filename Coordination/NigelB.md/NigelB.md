@@ -1,5 +1,5 @@
 # Next steps
-## todo: literature search for state of the art in [reliability and redundancy for unmanned aircraft](#Reliability-and-redundancy-for-unmanned-aircraft)  
+## todo: literature search for state of the art in reliability and redundancy for unmanned aircraft  
 
 ### work in progress, quotes from reference documents [here](https://hackmd.io/IjcOlnhtSNO6bEC0fUDX-w#Reliability-and-redundancy-for-unmanned-aircraft) 
 - Existing low-cost unmanned aerospace systems are unreliable {citation?}
