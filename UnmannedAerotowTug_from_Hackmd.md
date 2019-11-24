@@ -4,10 +4,7 @@
 
 [JonH](https://www.aerosociety.com/events-calendar/aero-mechanical-stabilisation-of-flying-wing-aircraft-reducing-weight-and-drag/) and [MichelC](https://www.nirvana.cz/michel-carnet-en) spoke about the topic.
 
-- [ ] @JonH work through [CAP722](#Unmanned-Aircraft-System-Operations-in-UK-Airspace) to get a feel for where the boundaries are likely to be
-- [ ] @JonH put out a circular on this 
-- [ ] @NigelB list possible cc's: MichelC JonH MalcolmB TimS NigelB RichardH JohnC JulianT JustinN BillB GrantC IanP AlanD 
-- [ ] @NigelB literature search for state of the art in [reliability and redundancy for unmanned aircraft](#Reliability-and-redundancy-for-unmanned-aircraft)
+Note there is a place for a [List of items to do next](./Coordination/todo.txt/todo.txt), a provisional [Licence](https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/LICENSE.md/LICENSE.md) file and a [Public git repository](https://github.com/nrbray-hackmd/UnmannedAerotowTug) for sharing data.
 
 ---
 
@@ -63,7 +60,7 @@
 
 ## References [\*](https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#When_and_why_to_cite_sources)
 
-0. [\[This\] Shared introductory text file](https://hackmd.io/Skhl4bVnH)
-1. [Public git repository](https://github.com/nrbray-hackmd/UnmannedAerotowTug)
-2. [Licence](https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/LICENSE.md/LICENSE.md)
-3. 
+- [\[This\] Shared introductory text file](https://hackmd.io/Skhl4bVnH)
+- [Public git repository](https://github.com/nrbray-hackmd/UnmannedAerotowTug)
+- [Licence](https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/LICENSE.md/LICENSE.md)
+- [List of items to do next](./Coordination/todo.txt/todo.txt)  
