@@ -3,3 +3,7 @@
 (C) @NigelB list possible cf's: MichelC JonH MalcolmB TimS NigelB RichardH JohnC JulianT JustinN BillB GrantC IanP AlanD 
 (D) @NigelB literature search for state of the art in reliability and redundancy for unmanned aircraft +https://github.com/nrbray-hackmd/UnmannedAerotowTug/blob/master/Coordination/NigelB.md/NigelB.md
 https://duckduckgo.com/?q=todo.txt 
+(Z) +UnmannedAerotowTug https://hackmd.io/Skhl4bVnH 
+
+$(which ssh) nrb@10.0.0.108 -- "git init --bare /srv/local/git/$(git rev-list --parents HEAD | tail -1)_${PWD##*/}.git"
+git push ssh://nrb@10.0.0.108/srv/local/git/$(git rev-list --parents HEAD | tail -1)_${PWD##*/}.git master
